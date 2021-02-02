@@ -10,7 +10,7 @@ const App = () => {
   const fetchPlaces = async ()=>{
     setLoading(true)
     try {
-      const res = await fetch('http://localhost:3333/places')
+      const res = await fetch('https://my-json-server.typicode.com/ronyfr3/db.json/places')
       const data = await res.json()
       setLoading(false)
       setPlace(data)
