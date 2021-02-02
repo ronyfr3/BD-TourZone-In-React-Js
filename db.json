@@ -1,7 +1,9 @@
-   //steps for run and fetch json data
-  // npm init  
-   //do this on powersell for remove restriction policy => Set-ExecutionPolicy Unrestricted
-   //npm i -g json-server 
+    //steps for run and fetch json data
+    // npm init  
+    //do this on powersell for remove restriction policy => Set-ExecutionPolicy Unrestricted
+    //npm i -g json-server 
+    //this db.json is just show case of data...this is unused in this repo
+  //using my-json-server.typicode.com
 {
     "places":[
         {
