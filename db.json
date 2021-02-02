@@ -1,6 +1,6 @@
    //steps for run and fetch json data
   // npm init  
-   //do this on powersell for reove restriction policy => Set-ExecutionPolicy Unrestricted
+   //do this on powersell for remove restriction policy => Set-ExecutionPolicy Unrestricted
    //npm i -g json-server 
 {
     "places":[
